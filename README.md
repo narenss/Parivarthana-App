@@ -1,4 +1,4 @@
-# parivarthan app 
+# Parivarthan App 
 
 ## Inspiration
  I know a friend named Adhi, who needs earphones because his speaker broke. I have a spare pair in
